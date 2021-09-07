@@ -1,6 +1,6 @@
 # TurboBC
 TurboBC is a memory efficient and highly scalable GPU-based set of Betweenness Centrality (BC) algorithms in the language of linear algebra. These
-are applicable to unweighted, directed and undirected graphs represented by sparse adjacency matrices in the Compressed Sparse Column (CSC) format, 
+algorithms are applicable to unweighted, directed and undirected graphs represented by sparse adjacency matrices in the Compressed Sparse Column (CSC) format, 
 and in the transpose (COOC) of the Coordinate (COO) format. 
  
 The TurboBC algorithms were designed to process sparse adjacency matrices selected from the SuiteSparse Matrix Collection in the Matrix Market format. 

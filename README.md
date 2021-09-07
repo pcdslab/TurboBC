@@ -5,7 +5,7 @@ and in the transpose (COOC) of the Coordinate (COO) format.
  
 The TurboBC algorithms were designed to process sparse adjacency matrices selected from the SuiteSparse Matrix Collection in the Matrix Market format. 
 
-More details of the design, implementation and experimental results obtained with the TurboBFS algorithms are given in our paper cited below.
+More details of the design, implementation and experimental results obtained with the TurboBC algorithms are given in our paper cited below.
 
 # Prerequisites
 This software has been tested on the following dependences:

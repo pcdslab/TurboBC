@@ -16,8 +16,8 @@ This software has been tested on the following dependences:
 # Install
 Instructions to install and compile the code:
 
-1. Download the software: https://github.com/pcdslab/TurboBC.git. The folder graphData contains some examples of Matrix Market files. 
-2. Compile the code with the Makefile in the TurboBC folder. Please set the library and include directories paths on the Makefile available for your particular machine.
+1. Download the software: git clone https://github.com/pcdslab/TurboBC.git. The folder graphData contains some examples of Matrix Market files. 
+2. Compile the code with the Makefile in the TurboBC folder. Please set the library and include directories paths on the Makefile available for your particular   machine.
 
 # Run
 1. Update the path of the graphData folder in the corresponding .sh file

@@ -16,7 +16,7 @@ This software has been tested on the following dependences:
 # Install
 Instructions to install and compile the code:
 
-1. Download the software: git clone https://github.com/pcdslab/TurboBC.git. The graphData folder contains some examples of Matrix Market files. 
+1. Download the software: git clone https://github.com/pcdslab/TurboBC.git. The graphData folder contains some examples of Matrix Market files. You may add more files from https://suitesparse-collection-website.herokuapp.com.
 2. Compile the code with the Makefile in the TurboBC folder. Please set the library and include directories paths on the Makefile available for your particular   machine.
 
 # Run

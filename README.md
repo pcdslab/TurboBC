@@ -27,7 +27,7 @@ Instructions to install and compile the code:
 # Publications
 If you use this software please cite our paper:
 
-Oswaldo Artiles and Fahad Saeed,. 2021. TurboBC: A Memory Efficient and Scalable GPU Based Betweenness Centrality Algorithm in the Language of Linear Algebra. In 50th International Conference on Parallel Processing Workshop (ICPP Workshops ’21), August 9–12, 2021, Lemont, IL, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3458744.3474047
+Oswaldo Artiles and Fahad Saeed,. 2021. TurboBC: A Memory Efficient and Scalable GPU Based Betweenness Centrality Algorithm in the Language of Linear Algebra. In 50th International Conference on Parallel Processing Workshop (ICPP Workshops ’21), August 9–12, 2021, Lemont, IL, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3458744.3474047. https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICPPWORKSHOPS21/35/d12b464b-debf-11eb-8d84-166a08e17233/OUT/icppworkshops21-35.html
 
 # Acknowledgements
 This research was supported by the National Science Foundations (NSF) under the Award Numbers CAREER OAC-1925960. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Science Foundation. We would also like to acknowledge the donation of a K-40c Tesla GPU and a TITAN Xp GPU from NVIDIA which was used for all the GPU-based experiments performed in our paper.
